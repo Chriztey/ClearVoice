@@ -33,9 +33,9 @@
 <!-- Optional screenshots section -->
 <h3 id="screenshots">Screenshots</h3>
 <p>
-  <img src="https://drive.google.com/file/d/1H0Z8CrZR8xrn56b9nSQH7RwS9W05JCg7/view?usp=drive_link" alt="Communication screen" width="31%">
-  <img src="docs/screen_2.png" alt="Phrase bank & suggestions" width="31%">
-  <img src="docs/screen_3.png" alt="TTS bubble playback" width="31%">
+  <img src="https://github.com/Chriztey/ClearVoice/blob/main/screen_ui/Screen_UI%20(1).jpg" alt="Communication screen" width="31%">
+  <img src="https://github.com/Chriztey/ClearVoice/blob/main/screen_ui/Screen_UI%20(2).jpg" alt="Communication screen" width="31%">
+  <img src="https://github.com/Chriztey/ClearVoice/blob/main/screen_ui/Screen_UI%20(3).jpg" alt="Communication screen" width="31%">
 </p>
 
 
